@@ -112,8 +112,6 @@ $(document).ready(function() {
 
 //--------------------------------------
 
-// SALVANDO EL SEMESTRE - YOUTUBE CHANNEL
- // Your web app's Firebase configuration
  var firebaseConfig = {
     apiKey: "AIzaSyDyCW4etpqbBUiUpLE05pQYws7qsTDfNHc",
     authDomain: "test-e52bf.firebaseapp.com",
