@@ -1,6 +1,6 @@
 //global
-var products =[];
-var cartItems= [];
+var products  = [];
+var cartItems = [];
 var cart_n= document.getElementById('cart_n');
 
 if (localStorage.getItem('positions')) {
